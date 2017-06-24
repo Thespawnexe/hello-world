@@ -1,6 +1,5 @@
 # hello-world
-This is a Hello World repo
-
+Changes are coming to this readme.
 HI, This is Me learning how to
 
 Git
